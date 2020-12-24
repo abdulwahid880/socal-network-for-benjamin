@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 
 
 import { Routes, RouterModule, PreloadAllModules } from '@angular/router';
-import { Shell } from '@app/shell/shell.service';
+
 import { AddFeedComponent } from '@app/feeds/components/add-feed/add-feed.component';
 import { FeedListingComponent } from '@app/feeds/components/feed-listing/feed-listing.component';
 

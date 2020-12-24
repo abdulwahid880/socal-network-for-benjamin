@@ -14,7 +14,7 @@ export const environment = {
   production: false,
   hmr: true,
   version:  '-dev',
-  serverUrl: '/api',
+  baseUrl: 'https://cors-anywhere.herokuapp.com/https://randomuser.me/',
   defaultLanguage: 'en-US',
   supportedLanguages: ['en-US']
 };
